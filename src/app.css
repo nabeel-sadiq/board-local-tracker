@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+@plugin "daisyui" {
+
+    themes: light --default, dark --prefersdark;
+
+}
+
+* {
+    font-family: "Bricolage Grotesque", sans-serif;
+}
+
+body {
+    margin-left: 120px;
+}
