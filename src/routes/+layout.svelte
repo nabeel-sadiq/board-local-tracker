@@ -6,4 +6,3 @@
 
 <Sidebar />
 {@render children()}
-<div class="lg:h-20 h-40"></div>

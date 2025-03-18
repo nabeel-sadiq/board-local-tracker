@@ -26,3 +26,6 @@
     <h1 class="text-3xl font-bold">Model Papers</h1>
     <ModelPaper/>
 </div>
+
+<!--footer -->
+<div class="lg:h-20 h-40"></div>
