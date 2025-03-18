@@ -1,5 +1,5 @@
 <script>
-    const pfp = "https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/01/sung-jinwoo-in-a-dungeon-in-the-solo-leveling-anime.jpg"
+    const pfp = "https://beebom.com/wp-content/uploads/2025/01/jinwoo-solo-leveling.jpg"
 </script>
 
 <div class="flex lg:flex-row flex-col justify-center items-center lg:px-0 px-5 lg:py-0 py-20">
@@ -11,7 +11,7 @@
         </div>
 
         <h1 class="text-xl opacity-70">@nabeelsadiq</h1>
-        <h1 class="text-3xl"><span class="text-accent font-bold">🗡️ E</span> - Rank</h1>
+        <h1 class="text-3xl"><span class="text-accent font-bold">🗡️ S</span> - Rank</h1>
 
         <div id="settings" class="flex flex-col justify-center items-center gap-3 py-3">
             <div class="divider h-1"></div>
@@ -44,37 +44,37 @@
             <!-- Maths Section -->
             <div class="flex justify-center items-center gap-3 text-xl">
                 <p>Maths</p>
-                <progress class="progress progress-primary lg:w-100 w-50 h-3" value="10" max="100"></progress>
+                <progress class="progress progress-primary lg:w-100 w-50 h-3" value="90" max="100"></progress>
             </div>
 
             <!-- Urdu Section -->
             <div class="flex justify-center items-center gap-3 text-xl">
                 <p>Urdu</p>
-                <progress class="progress progress-primary lg:w-100 w-50 h-3" value="25" max="100"></progress>
+                <progress class="progress progress-primary lg:w-100 w-50 h-3" value="80" max="100"></progress>
             </div>
 
             <!-- English Section -->
             <div class="flex justify-center items-center gap-3 text-xl">
                 <p>English</p>
-                <progress class="progress progress-primary lg:w-100 w-50 h-3" value="45" max="100"></progress>
+                <progress class="progress progress-primary lg:w-100 w-50 h-3" value="95" max="100"></progress>
             </div>
 
             <!-- Islamiyat Section -->
             <div class="flex justify-center items-center gap-3 text-xl">
                 <p>Islamiyat</p>
-                <progress class="progress progress-primary lg:w-100 w-50 h-3" value="60" max="100"></progress>
+                <progress class="progress progress-primary lg:w-100 w-50 h-3" value="69.69" max="100"></progress>
             </div>
 
             <!-- Physics Section -->
             <div class="flex justify-center items-center gap-3 text-xl">
                 <p>Physics</p>
-                <progress class="progress progress-primary lg:w-100 w-50 h-3" value="35" max="100"></progress>
+                <progress class="progress progress-primary lg:w-100 w-50 h-3" value="75" max="100"></progress>
             </div>
 
             <!-- Computer Science Section -->
             <div class="flex justify-center items-center gap-3 text-xl">
                 <p>Computer</p>
-                <progress class="progress progress-primary lg:w-100 w-50 h-3" value="80" max="100"></progress>
+                <progress class="progress progress-primary lg:w-100 w-50 h-3" value="90" max="100"></progress>
             </div>
         </div>
     </div>
