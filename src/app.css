@@ -10,5 +10,5 @@
 }
 
 body {
-    margin-left: 120px;
+    @apply lg:ml-30 ml-0;
 }
