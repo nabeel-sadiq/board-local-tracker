@@ -2,7 +2,7 @@
 
 <ul class="list">
 
-    <li class="p-4 pb-2 text-lg opacity-60 tracking-wide"><span class="opacity-100">-&gt;&nbsp;</span>Chapters Due this
+    <li class="p-4 pb-2 text-lg opacity-60 tracking-wide"><span class="opacity-100">🎉&nbsp;</span>Chapters Due this
         Week
     </li>
 

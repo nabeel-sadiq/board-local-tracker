@@ -1,11 +1,12 @@
 <script>
     import CircleProgress from "$lib/components/CircleProgress.svelte";
     import TasksDueToday from "$lib/components/TasksDueToday.svelte";
+    import ModelPaper from "$lib/components/ModelPaper.svelte";
 
     let circleValue = $state(69);
 </script>
 
-<div class="flex justify-center items-center py-10 lg:px-10 px-5">
+<div class="flex flex-col justify-center items-center py-10 lg:px-10 px-5">
     <div class="flex lg:flex-row flex-col lg:bg-base-200 rounded-xl py-10 w-full gap-20 justify-center items-start">
         <div class="lg:w-1/2 w-full flex justify-center items-center">
             <div class="relative">
@@ -17,4 +18,11 @@
             <TasksDueToday/>
         </div>
     </div>
+
+</div>
+
+<!--    model papers-->
+<div class="px-10">
+    <h1 class="text-3xl font-bold">Model Papers</h1>
+    <ModelPaper/>
 </div>
